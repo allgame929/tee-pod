@@ -1,0 +1,63 @@
+@use '../abstracts/variables' as v;
+@use '../abstracts/typo-mixins' as tm;
+
+body .elementor {
+	.elementor-field-group .elementor-field-textual,
+	input[type='date'],
+	input[type='email'],
+	input[type='number'],
+	input[type='password'],
+	input[type='tel'],
+	input[type='text'],
+	input[type='url'],
+	textarea {
+		@include tm.body-text-md-regular;
+
+		border-radius: 8px;
+		border: 1px solid v.$gray-300;
+		background: v.$base-white;
+		padding: 12px 14px;
+
+		&::placeholder {
+			color: v.$gray-400;
+		}
+
+		&::-moz-placeholder {
+			color: v.$gray-400;
+		}
+
+		&:hover,
+		&:focus,
+		&:focus-within {
+			outline: 0;
+			box-shadow: 0 0 0 2px v.$primary-500;
+		}
+	}
+
+	textarea {
+		resize: none;
+	}
+
+	.elementor-field-group {
+		align-content: flex-start;
+
+		.elementor-message.elementor-message-danger.elementor-help-inline {
+			color: v.$danger-500;
+			display: inline;
+
+			&::before {
+				display: inline-flex;
+				position: relative;
+				top: -1px;
+			}
+		}
+	}
+
+	.elementor-message {
+		&::before {
+			display: inline-flex;
+			position: relative;
+			top: -1px;
+		}
+	}
+}

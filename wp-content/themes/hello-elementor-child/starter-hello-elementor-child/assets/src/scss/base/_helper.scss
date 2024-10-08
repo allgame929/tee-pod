@@ -1,0 +1,8 @@
+.elementor .elementor-element.color-link--inherit {
+	a {
+		&,
+		&:hover {
+			color: inherit;
+		}
+	}
+}
