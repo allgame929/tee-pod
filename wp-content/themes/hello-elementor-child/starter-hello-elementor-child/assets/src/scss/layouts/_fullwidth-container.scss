@@ -1,0 +1,17 @@
+.mi-fullwidth-container {
+	.col-text {
+		@media (min-width: 1024px) and (max-width: 1960px) {
+			padding-right: calc((100vw - 1226px) / 2) !important;
+		}
+
+		@media (min-width: 1960px) {
+			max-width: 1180px !important;
+			margin-inline: auto !important;
+			padding-inline: 16px;
+		}
+
+		@media (max-width: 1212px) {
+			padding-inline: 16px !important;
+		}
+	}
+}
