@@ -1,0 +1,17 @@
+@use '../../abstracts/variables' as v;
+
+.e-video {
+	.elementor-custom-embed-image-overlay {
+		img {
+			height: 500px;
+
+			@media (max-width: v.$tablet-down) {
+				height: 350px;
+			}
+
+			@media (max-width: 767px) {
+				height: 500px;
+			}
+		}
+	}
+}

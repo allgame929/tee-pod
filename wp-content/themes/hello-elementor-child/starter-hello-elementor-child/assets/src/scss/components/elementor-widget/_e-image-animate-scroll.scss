@@ -1,0 +1,58 @@
+.target-section {
+	.icon-move {
+		&-1,
+		&-2,
+		&-3,
+		&-4,
+		&-5,
+		&-6,
+		&-7,
+		&-8,
+		&-9,
+		&-10 {
+			transition: all 0.5s ease-in-out;
+		}
+	}
+
+	&.animate-image {
+		.icon-move-1 {
+			transform: translateY(-60px) scale(1.1);
+		}
+
+		.icon-move-2 {
+			transform: translateX(-60px) scale(1.1);
+		}
+
+		.icon-move-3 {
+			transform: translateY(60px) scale(1.1);
+		}
+
+		.icon-move-4 {
+			transform: translateY(80px) scale(1.1);
+		}
+
+		.icon-move-5 {
+			transform: translate(-60px, 80px) scale(1.1);
+		}
+
+		.icon-move-6 {
+			transform: translateX(-100px) scale(1.1);
+		}
+
+		.icon-move-7 {
+			transform: translateY(-80px) scale(1.1);
+		}
+
+		.icon-move-8 {
+			transform: rotate(15deg) scale(1.2);
+		}
+
+		.icon-move-9 {
+			transform: rotate(15deg) scale(1.1);
+		}
+
+		.icon-move-10 {
+			transform: rotate(-25deg) scale(0.95);
+		}
+	}
+}

@@ -29,12 +29,14 @@ class My_Elementor_Widgets
   public function includes()
   {
     require_once('example/example.php');
+    require_once('clients-slider/clients-slider.php');
   }
 
   public function register_widgets($widgetManager)
   {
     $this->includes();
     $widgetManager->register(new \ExampleWidget());
+    $widgetManager->register(new \ClientsSliderWidget());
   }
 
   public function register_new_category($elements_manager)

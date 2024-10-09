@@ -1,0 +1,27 @@
+.e-icon-box {
+	.elementor-icon-box-wrapper {
+		.elementor-icon-box-icon {
+			.elementor-icon {
+				transition: all 0.3s ease-in-out;
+			}
+		}
+
+		.elementor-icon-box-content {
+			transition: all 0.3s ease-in-out;
+		}
+	}
+
+	&:hover {
+		.elementor-icon-box-wrapper {
+			.elementor-icon-box-icon {
+				.elementor-icon {
+					transform: scale(1.2);
+				}
+			}
+
+			.elementor-icon-box-content {
+				transform: translateY(20px);
+			}
+		}
+	}
+}
