@@ -2,308 +2,308 @@
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[3]!./assets/src/scss/style.scss ***!
   \***************************************************************************************************************************************************************************************************************************************************/
 .heading-h-1-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 52px;
   font-weight: 400;
   line-height: 1.19em;
 }
 
 .heading-h-1-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 52px;
   font-weight: 500;
   line-height: 1.19em;
 }
 
 .heading-h-1-semibold-62 {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 52px;
   font-weight: 600;
   line-height: undefined;
 }
 
 .heading-h-1-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 52px;
   font-weight: 800;
   line-height: 1.19em;
 }
 
 .heading-h-2-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 48px;
   font-weight: 400;
   line-height: 1.17em;
 }
 
 .heading-h-2-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 48px;
   font-weight: 500;
   line-height: 1.17em;
 }
 
 .heading-h-2-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 48px;
   font-weight: 600;
   line-height: 1.17em;
 }
 
 .heading-h-2-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 48px;
   font-weight: 800;
   line-height: 1.17em;
 }
 
 .heading-h-3-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 1.1em;
 }
 
 .heading-h-3-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 40px;
   font-weight: 500;
   line-height: 1.1em;
 }
 
 .heading-h-3-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 40px;
   font-weight: 600;
   line-height: 1.1em;
 }
 
 .heading-h-3-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 40px;
   font-weight: 800;
   line-height: 1.1em;
 }
 
 .heading-h-4-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 1.13em;
 }
 
 .heading-h-4-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 30px;
   font-weight: 500;
   line-height: 1.13em;
 }
 
 .heading-h-4-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 30px;
   font-weight: 600;
   line-height: 1.13em;
 }
 
 .heading-h-4-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 30px;
   font-weight: 800;
   line-height: 1.13em;
 }
 
 .heading-h-5-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.17em;
 }
 
 .heading-h-5-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 24px;
   font-weight: 500;
   line-height: 1.17em;
 }
 
 .heading-h-5-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 24px;
   font-weight: 600;
   line-height: 1.17em;
 }
 
 .heading-h-5-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 24px;
   font-weight: 800;
   line-height: 1.17em;
 }
 
 .heading-h-6-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: 400;
   line-height: 1.18em;
 }
 
 .heading-h-6-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: 1.18em;
 }
 
 .heading-h-6-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: 600;
   line-height: 1.18em;
 }
 
 .heading-h-6-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 22px;
   font-weight: 800;
   line-height: 1.18em;
 }
 
 .body-text-xl-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 1.5em;
 }
 
 .body-text-xl-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.5em;
 }
 
 .body-text-xl-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 1.5em;
 }
 
 .body-text-xl-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 20px;
   font-weight: 800;
   line-height: 1.5em;
 }
 
 .body-text-lg-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.56em;
 }
 
 .body-text-lg-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 18px;
   font-weight: 500;
   line-height: 1.56em;
 }
 
 .body-text-lg-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 1.56em;
 }
 
 .body-text-lg-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 18px;
   font-weight: 800;
   line-height: 1.56em;
 }
 
 .body-text-md-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em;
 }
 
 .body-text-md-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5em;
 }
 
 .body-text-md-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5em;
 }
 
 .body-text-md-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   font-weight: 800;
   line-height: 1.5em;
 }
 
 .body-text-sm-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.43em;
 }
 
 .body-text-sm-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 1.43em;
 }
 
 .body-text-sm-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 1.43em;
 }
 
 .body-text-sm-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   font-weight: 800;
   line-height: 1.43em;
 }
 
 .body-text-xs-regular {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.5em;
 }
 
 .body-text-xs-medium {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-weight: 500;
   line-height: 1.5em;
 }
 
 .body-text-xs-semibold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-weight: 600;
   line-height: 1.5em;
 }
 
 .body-text-xs-bold {
-  font-family: "Manrope", sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-weight: 800;
   line-height: 1.5em;
@@ -331,532 +331,76 @@
   background-color: #000000;
 }
 
-.primary-25 {
-  color: #f5fbff;
+.clouded-blue {
+  color: #1d71ed;
 }
 
-.bg-primary-25 {
-  background-color: #f5fbff;
+.bg-clouded-blue {
+  background-color: #1d71ed;
 }
 
-.primary-50 {
-  color: #ebf7ff;
+.natural-wool {
+  color: #fff5d7;
 }
 
-.bg-primary-50 {
-  background-color: #ebf7ff;
+.bg-natural-wool {
+  background-color: #fff5d7;
 }
 
-.primary-100 {
-  color: #d4edff;
+.text {
+  color: #222222;
 }
 
-.bg-primary-100 {
-  background-color: #d4edff;
+.bg-text {
+  background-color: #222222;
 }
 
-.primary-200 {
-  color: #afdeff;
+.tool-blue {
+  color: #617788;
 }
 
-.bg-primary-200 {
-  background-color: #afdeff;
+.bg-tool-blue {
+  background-color: #617788;
 }
 
-.primary-300 {
-  color: #81cbff;
+.brilliant-white {
+  color: #e6f0ff;
 }
 
-.bg-primary-300 {
-  background-color: #81cbff;
+.bg-brilliant-white {
+  background-color: #e6f0ff;
 }
 
-.primary-400 {
-  color: #3dafff;
+.snowdrop {
+  color: #f0ffd0;
 }
 
-.bg-primary-400 {
-  background-color: #3dafff;
+.bg-snowdrop {
+  background-color: #f0ffd0;
 }
 
-.primary-500 {
-  color: #0592f5;
+.aragonite-white {
+  color: #f2f1f2;
 }
 
-.bg-primary-500 {
-  background-color: #0592f5;
+.bg-aragonite-white {
+  background-color: #f2f1f2;
 }
 
-.primary-600 {
-  color: #057fd4;
+.westfall-yellow {
+  color: #fdd453;
 }
 
-.bg-primary-600 {
-  background-color: #057fd4;
+.bg-westfall-yellow {
+  background-color: #fdd453;
 }
 
-.primary-700 {
-  color: #0069b1;
+.philippine-orange {
+  color: #ff7300;
 }
 
-.bg-primary-700 {
-  background-color: #0069b1;
-}
-
-.primary-800 {
-  color: #00538b;
-}
-
-.bg-primary-800 {
-  background-color: #00538b;
-}
-
-.primary-900 {
-  color: #003961;
-}
-
-.bg-primary-900 {
-  background-color: #003961;
-}
-
-.secondary-25 {
-  color: #fff6f3;
-}
-
-.bg-secondary-25 {
-  background-color: #fff6f3;
-}
-
-.secondary-50 {
-  color: #ffe9e2;
-}
-
-.bg-secondary-50 {
-  background-color: #ffe9e2;
-}
-
-.secondary-100 {
-  color: #ffcfc0;
-}
-
-.bg-secondary-100 {
-  background-color: #ffcfc0;
-}
-
-.secondary-200 {
-  color: #ffb59d;
-}
-
-.bg-secondary-200 {
-  background-color: #ffb59d;
-}
-
-.secondary-300 {
-  color: #ff916d;
-}
-
-.bg-secondary-300 {
-  background-color: #ff916d;
-}
-
-.secondary-400 {
-  color: #ff6431;
-}
-
-.bg-secondary-400 {
-  background-color: #ff6431;
-}
-
-.secondary-500 {
-  color: #e93a01;
-}
-
-.bg-secondary-500 {
-  background-color: #e93a01;
-}
-
-.secondary-600 {
-  color: #cc3403;
-}
-
-.bg-secondary-600 {
-  background-color: #cc3403;
-}
-
-.secondary-700 {
-  color: #892402;
-}
-
-.bg-secondary-700 {
-  background-color: #892402;
-}
-
-.secondary-800 {
-  color: #631900;
-}
-
-.bg-secondary-800 {
-  background-color: #631900;
-}
-
-.secondary-900 {
-  color: #481200;
-}
-
-.bg-secondary-900 {
-  background-color: #481200;
-}
-
-.gray-25 {
-  color: #fcfcfd;
-}
-
-.bg-gray-25 {
-  background-color: #fcfcfd;
-}
-
-.gray-50 {
-  color: #f9fafb;
-}
-
-.bg-gray-50 {
-  background-color: #f9fafb;
-}
-
-.gray-100 {
-  color: #f2f4f7;
-}
-
-.bg-gray-100 {
-  background-color: #f2f4f7;
-}
-
-.gray-200 {
-  color: #eaecf0;
-}
-
-.bg-gray-200 {
-  background-color: #eaecf0;
-}
-
-.gray-300 {
-  color: #d0d5dd;
-}
-
-.bg-gray-300 {
-  background-color: #d0d5dd;
-}
-
-.gray-400 {
-  color: #98a2b3;
-}
-
-.bg-gray-400 {
-  background-color: #98a2b3;
-}
-
-.gray-500 {
-  color: #667085;
-}
-
-.bg-gray-500 {
-  background-color: #667085;
-}
-
-.gray-600 {
-  color: #475467;
-}
-
-.bg-gray-600 {
-  background-color: #475467;
-}
-
-.gray-700 {
-  color: #344054;
-}
-
-.bg-gray-700 {
-  background-color: #344054;
-}
-
-.gray-800 {
-  color: #1d2939;
-}
-
-.bg-gray-800 {
-  background-color: #1d2939;
-}
-
-.gray-900 {
-  color: #101828;
-}
-
-.bg-gray-900 {
-  background-color: #101828;
-}
-
-.danger-25 {
-  color: #fff8f8;
-}
-
-.bg-danger-25 {
-  background-color: #fff8f8;
-}
-
-.danger-50 {
-  color: #ffe9eb;
-}
-
-.bg-danger-50 {
-  background-color: #ffe9eb;
-}
-
-.danger-100 {
-  color: #ffc8cf;
-}
-
-.bg-danger-100 {
-  background-color: #ffc8cf;
-}
-
-.danger-200 {
-  color: #fe99a6;
-}
-
-.bg-danger-200 {
-  background-color: #fe99a6;
-}
-
-.danger-300 {
-  color: #ff6a7d;
-}
-
-.bg-danger-300 {
-  background-color: #ff6a7d;
-}
-
-.danger-400 {
-  color: #f9455b;
-}
-
-.bg-danger-400 {
-  background-color: #f9455b;
-}
-
-.danger-500 {
-  color: #d0021b;
-}
-
-.bg-danger-500 {
-  background-color: #d0021b;
-}
-
-.danger-600 {
-  color: #ad0418;
-}
-
-.bg-danger-600 {
-  background-color: #ad0418;
-}
-
-.danger-700 {
-  color: #8b0011;
-}
-
-.bg-danger-700 {
-  background-color: #8b0011;
-}
-
-.danger-800 {
-  color: #74000e;
-}
-
-.bg-danger-800 {
-  background-color: #74000e;
-}
-
-.danger-900 {
-  color: #4e0009;
-}
-
-.bg-danger-900 {
-  background-color: #4e0009;
-}
-
-.warning-25 {
-  color: #fffcf5;
-}
-
-.bg-warning-25 {
-  background-color: #fffcf5;
-}
-
-.warning-50 {
-  color: #fffaeb;
-}
-
-.bg-warning-50 {
-  background-color: #fffaeb;
-}
-
-.warning-100 {
-  color: #fef0c7;
-}
-
-.bg-warning-100 {
-  background-color: #fef0c7;
-}
-
-.warning-200 {
-  color: #fedf89;
-}
-
-.bg-warning-200 {
-  background-color: #fedf89;
-}
-
-.warning-300 {
-  color: #fec84b;
-}
-
-.bg-warning-300 {
-  background-color: #fec84b;
-}
-
-.warning-400 {
-  color: #fdb022;
-}
-
-.bg-warning-400 {
-  background-color: #fdb022;
-}
-
-.warning-500 {
-  color: #f79009;
-}
-
-.bg-warning-500 {
-  background-color: #f79009;
-}
-
-.warning-600 {
-  color: #dc6803;
-}
-
-.bg-warning-600 {
-  background-color: #dc6803;
-}
-
-.warning-700 {
-  color: #b54708;
-}
-
-.bg-warning-700 {
-  background-color: #b54708;
-}
-
-.warning-800 {
-  color: #93370d;
-}
-
-.bg-warning-800 {
-  background-color: #93370d;
-}
-
-.warning-900 {
-  color: #7a2e0e;
-}
-
-.bg-warning-900 {
-  background-color: #7a2e0e;
-}
-
-.done-25 {
-  color: #f6fef9;
-}
-
-.bg-done-25 {
-  background-color: #f6fef9;
-}
-
-.done-50 {
-  color: #ecfdf3;
-}
-
-.bg-done-50 {
-  background-color: #ecfdf3;
-}
-
-.done-100 {
-  color: #d1fadf;
-}
-
-.bg-done-100 {
-  background-color: #d1fadf;
-}
-
-.done-200 {
-  color: #a6f4c5;
-}
-
-.bg-done-200 {
-  background-color: #a6f4c5;
-}
-
-.done-300 {
-  color: #6ce9a6;
-}
-
-.bg-done-300 {
-  background-color: #6ce9a6;
-}
-
-.done-400 {
-  color: #32d583;
-}
-
-.bg-done-400 {
-  background-color: #32d583;
-}
-
-.done-500 {
-  color: #12b76a;
-}
-
-.bg-done-500 {
-  background-color: #12b76a;
-}
-
-.done-600 {
-  color: #039855;
-}
-
-.bg-done-600 {
-  background-color: #039855;
-}
-
-.done-700 {
-  color: #027a48;
-}
-
-.bg-done-700 {
-  background-color: #027a48;
-}
-
-.done-800 {
-  color: #05603a;
-}
-
-.bg-done-800 {
-  background-color: #05603a;
-}
-
-.done-900 {
-  color: #054f31;
-}
-
-.bg-done-900 {
-  background-color: #054f31;
+.bg-philippine-orange {
+  background-color: #ff7300;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -971,7 +515,7 @@ body {
 
 ol,
 ul {
-  list-style: none;
+  padding-left: 20px;
 }
 
 blockquote,
@@ -1008,100 +552,215 @@ p:last-child {
   margin-block-end: 0;
 }
 
-body .elementor .elementor-field-group .elementor-field-textual,
-body .elementor input[type=date],
-body .elementor input[type=email],
-body .elementor input[type=number],
-body .elementor input[type=password],
-body .elementor input[type=tel],
-body .elementor input[type=text],
-body .elementor input[type=url],
-body .elementor textarea {
-  font-family: "Manrope", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5em;
-  border-radius: 8px;
-  border: 1px solid #d0d5dd;
-  background: #ffffff;
-  padding: 12px 14px;
-}
-body .elementor .elementor-field-group .elementor-field-textual::-moz-placeholder, body .elementor input[type=date]::-moz-placeholder, body .elementor input[type=email]::-moz-placeholder, body .elementor input[type=number]::-moz-placeholder, body .elementor input[type=password]::-moz-placeholder, body .elementor input[type=tel]::-moz-placeholder, body .elementor input[type=text]::-moz-placeholder, body .elementor input[type=url]::-moz-placeholder, body .elementor textarea::-moz-placeholder {
-  color: #98a2b3;
-}
-body .elementor .elementor-field-group .elementor-field-textual::placeholder,
-body .elementor input[type=date]::placeholder,
-body .elementor input[type=email]::placeholder,
-body .elementor input[type=number]::placeholder,
-body .elementor input[type=password]::placeholder,
-body .elementor input[type=tel]::placeholder,
-body .elementor input[type=text]::placeholder,
-body .elementor input[type=url]::placeholder,
-body .elementor textarea::placeholder {
-  color: #98a2b3;
-}
-body .elementor .elementor-field-group .elementor-field-textual::-moz-placeholder,
-body .elementor input[type=date]::-moz-placeholder,
-body .elementor input[type=email]::-moz-placeholder,
-body .elementor input[type=number]::-moz-placeholder,
-body .elementor input[type=password]::-moz-placeholder,
-body .elementor input[type=tel]::-moz-placeholder,
-body .elementor input[type=text]::-moz-placeholder,
-body .elementor input[type=url]::-moz-placeholder,
-body .elementor textarea::-moz-placeholder {
-  color: #98a2b3;
-}
-body .elementor .elementor-field-group .elementor-field-textual:hover, body .elementor .elementor-field-group .elementor-field-textual:focus, body .elementor .elementor-field-group .elementor-field-textual:focus-within,
-body .elementor input[type=date]:hover,
-body .elementor input[type=date]:focus,
-body .elementor input[type=date]:focus-within,
-body .elementor input[type=email]:hover,
-body .elementor input[type=email]:focus,
-body .elementor input[type=email]:focus-within,
-body .elementor input[type=number]:hover,
-body .elementor input[type=number]:focus,
-body .elementor input[type=number]:focus-within,
-body .elementor input[type=password]:hover,
-body .elementor input[type=password]:focus,
-body .elementor input[type=password]:focus-within,
-body .elementor input[type=tel]:hover,
-body .elementor input[type=tel]:focus,
-body .elementor input[type=tel]:focus-within,
-body .elementor input[type=text]:hover,
-body .elementor input[type=text]:focus,
-body .elementor input[type=text]:focus-within,
-body .elementor input[type=url]:hover,
-body .elementor input[type=url]:focus,
-body .elementor input[type=url]:focus-within,
-body .elementor textarea:hover,
-body .elementor textarea:focus,
-body .elementor textarea:focus-within {
-  outline: 0;
-  box-shadow: 0 0 0 2px #0592f5;
-}
-body .elementor textarea {
-  resize: none;
-}
-body .elementor .elementor-field-group {
-  align-content: flex-start;
-}
-body .elementor .elementor-field-group .elementor-message.elementor-message-danger.elementor-help-inline {
-  color: #d0021b;
-  display: inline;
-}
-body .elementor .elementor-field-group .elementor-message.elementor-message-danger.elementor-help-inline::before {
-  display: inline-flex;
-  position: relative;
-  top: -1px;
-}
-body .elementor .elementor-message::before {
-  display: inline-flex;
-  position: relative;
-  top: -1px;
-}
-
 .elementor .elementor-element.color-link--inherit a, .elementor .elementor-element.color-link--inherit a:hover {
   color: inherit;
+}
+
+.title-gradient-blue {
+  background: linear-gradient(180deg, #1d71ed, #5c56e8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-gradient-purple {
+  background: linear-gradient(180deg, #a03be3, #f219dd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-gradient-blue-purple {
+  background: linear-gradient(180deg, #1d71ed, #f219dd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-gradient-green {
+  background: linear-gradient(90deg, #13acbb, #b4ef25);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-gradient-orange {
+  background: linear-gradient(90deg, #fdd453, #ff810c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.e-button a {
+  width: 100%;
+}
+
+.target-section .icon-move-1, .target-section .icon-move-2, .target-section .icon-move-3, .target-section .icon-move-4, .target-section .icon-move-5, .target-section .icon-move-6, .target-section .icon-move-7, .target-section .icon-move-8, .target-section .icon-move-9, .target-section .icon-move-10 {
+  transition: all 0.5s ease-in-out;
+}
+.target-section.animate-image .icon-move-1 {
+  transform: translateY(-60px) scale(1.1);
+}
+.target-section.animate-image .icon-move-2 {
+  transform: translateX(-60px) scale(1.1);
+}
+.target-section.animate-image .icon-move-3 {
+  transform: translateY(60px) scale(1.1);
+}
+.target-section.animate-image .icon-move-4 {
+  transform: translateY(80px) scale(1.1);
+}
+.target-section.animate-image .icon-move-5 {
+  transform: translate(-60px, 80px) scale(1.1);
+}
+.target-section.animate-image .icon-move-6 {
+  transform: translateX(-100px) scale(1.1);
+}
+.target-section.animate-image .icon-move-7 {
+  transform: translateY(-80px) scale(1.1);
+}
+.target-section.animate-image .icon-move-8 {
+  transform: rotate(15deg) scale(1.2);
+}
+.target-section.animate-image .icon-move-9 {
+  transform: rotate(15deg) scale(1.1);
+}
+.target-section.animate-image .icon-move-10 {
+  transform: rotate(-25deg) scale(0.95);
+}
+
+.e-icon-box .elementor-icon-box-wrapper .elementor-icon-box-icon .elementor-icon {
+  transition: all 0.3s ease-in-out;
+}
+.e-icon-box .elementor-icon-box-wrapper .elementor-icon-box-content {
+  transition: all 0.3s ease-in-out;
+}
+.e-icon-box:hover .elementor-icon-box-wrapper .elementor-icon-box-icon .elementor-icon {
+  transform: scale(1.2);
+}
+.e-icon-box:hover .elementor-icon-box-wrapper .elementor-icon-box-content {
+  transform: translateY(20px);
+}
+
+.e-video .elementor-custom-embed-image-overlay img {
+  height: 500px;
+}
+@media (max-width: 1024px) {
+  .e-video .elementor-custom-embed-image-overlay img {
+    height: 350px;
+  }
+}
+@media (max-width: 767px) {
+  .e-video .elementor-custom-embed-image-overlay img {
+    height: 500px;
+  }
+}
+
+.e-img-hover .elementor-widget-container img {
+  transition: all 0.3s ease-in-out;
+}
+.e-img-hover:hover .elementor-widget-container img {
+  border-radius: 80px !important;
+}
+.e-img-hover__circle .elementor-widget-container img {
+  transition: all 0.3s ease-in-out;
+}
+.e-img-hover__circle:hover .elementor-widget-container img {
+  border-radius: 50% !important;
+}
+
+.e-bg-color__gradient {
+  background: linear-gradient(120deg, rgb(242, 25, 221) 6%, rgb(29, 113, 237) 50%, rgb(19, 172, 187) 73%);
+}
+
+.clients-slider {
+  width: 100%;
+  overflow: hidden;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.clients-slider .swiper-slide {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 180px;
+}
+.clients-slider .swiper-slide img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 16px;
+}
+.clients-slider .swiper-wrapper {
+  display: flex;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .menu-item .elementor-nav-menu--dropdown {
+  padding: 10px 20px 10px 10px;
+  border-radius: 10px;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 20px;
+  width: 0;
+  height: 0;
+  border-left: 21px solid white;
+  border-right: 21px solid white;
+  border-bottom: 15px solid #F9FAFA;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item {
+  position: relative;
+  padding-right: 36px;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item {
+  transition: all 0.3s ease-in-out;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item::after {
+  content: url("/wp-content/uploads/2024/10/arrow.svg");
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%) scale(0);
+  height: 23px;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item:hover::after {
+  transform: translateY(-50%) scale(0.6);
+}
+
+.main-header .e-icon {
+  height: 24px;
+}
+
+.main-footer__top .e-divider .elementor-divider .elementor-divider-separator {
+  border-block-start: 0;
+  height: 5px;
+  background: linear-gradient(-160deg, #1D71ED 0%, #13ACBB 49%, #F0FFD0 100%);
+  height: 5px;
+}
+
+.main-footer__top .e-social-icon .elementor-social-icons-wrapper .elementor-grid-item .elementor-icon {
+  background: linear-gradient(30deg, #1D71ED 0%, #13ACBB 49%, #F0FFD0 100%);
+}
+
+.main-footer__top .e-form .elementor-form .elementor-form-fields-wrapper input {
+  padding: 18px;
+  color: #333;
+}
+
+.main-footer__top .e-form .elementor-form .elementor-form-fields-wrapper input::-moz-placeholder {
+  color: #617788;
+}
+
+.main-footer__top .e-form .elementor-form .elementor-form-fields-wrapper input::placeholder {
+  color: #617788;
+}
+
+.main-footer__top .e-form .elementor-form .elementor-form-fields-wrapper .elementor-button {
+  background: linear-gradient(-15deg, #1D71ED 0%, #13ACBB 49%, #F0FFD0 100%);
 }
 
 /*# sourceMappingURL=style.min.css.map*/

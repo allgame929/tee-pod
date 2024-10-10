@@ -1,0 +1,41 @@
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .menu-item .elementor-nav-menu--dropdown {
+	padding:10px 20px 10px 10px;
+	border-radius:10px;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown::before {
+	content: "";
+    position: absolute;
+    top: -14px;
+    left: 20px;
+    width: 0;
+    height: 0;
+    border-left: 21px solid white;
+    border-right: 21px solid white;
+    border-bottom: 15px solid #F9FAFA;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item {
+	position: relative;
+  padding-right: 36px;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item {
+	transition: all .3s ease-in-out;
+}
+
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item::after {
+	content: url('/wp-content/uploads/2024/10/arrow.svg');
+	position: absolute;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%) scale(0);
+	height:23px;
+}
+.main-header__menu .elementor-nav-menu--main .elementor-nav-menu .elementor-nav-menu--dropdown .menu-item:hover::after {
+		transform:translateY(-50%) scale(.6);
+}
+
+.main-header .e-icon {
+	height:24px;
+}

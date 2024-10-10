@@ -1,0 +1,31 @@
+.e-img-hover {
+	.elementor-widget-container {
+		img {
+			transition: all 0.3s ease-in-out;
+		}
+	}
+
+	&:hover {
+		.elementor-widget-container {
+			img {
+				border-radius: 80px !important;
+			}
+		}
+	}
+
+	&__circle {
+		.elementor-widget-container {
+			img {
+				transition: all 0.3s ease-in-out;
+			}
+		}
+
+		&:hover {
+			.elementor-widget-container {
+				img {
+					border-radius: 50% !important;
+				}
+			}
+		}
+	}
+}

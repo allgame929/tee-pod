@@ -1,0 +1,12 @@
+@use '../../abstracts/variables' as v;
+
+.e-bg-color {
+	&__gradient {
+		background: linear-gradient(
+			120deg,
+			rgba(242, 25, 221, 1) 6%,
+			rgba(29, 113, 237, 1) 50%,
+			rgba(19, 172, 187, 1) 73%
+		);
+	}
+}
