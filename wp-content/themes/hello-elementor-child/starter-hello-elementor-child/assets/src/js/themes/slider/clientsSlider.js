@@ -11,13 +11,14 @@ const clientsSlider = () => {
 	const init = () => {
 		if ($target.length) {
 			exec();
+			
 		}
 	};
 
 	const exec = () => {
 		// eslint-disable-next-line
 		const swiper = new Swiper('.swiperCardSlider', {
-			slidesPerView: 'auto', // Allow slides to auto-size
+			slidesPerView: 6, // Allow slides to auto-size
 			spaceBetween: 20, // Adjust space between slides
 			centeredSlides: false, // Disable centered slides to create marquee effect
 			loop: true, // Enable loop
@@ -28,6 +29,21 @@ const clientsSlider = () => {
 			},
 			freeMode: true, // Enable freeMode to remove snap effect
 			freeModeMomentum: false,
+			breakpoints: {
+				1140: {
+					slidesPerView: 7,
+				},
+				1024: {
+					slidesPerView: 5,
+				},
+				767: {
+					slidesPerView: 3,
+				},
+				280: {
+					slidesPerView: 2,
+				},
+			},
+
 		});
 	};
 
